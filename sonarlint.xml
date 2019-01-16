@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.1.48.26:9000/" />
+          <token>dfc9dfcbdf9adf9fdfcfdfccdf9bdfc8df9edfcbdfc8df9adf9ddf9bdfc8dfcbdf9edf9ddf9edfc8dfcfdf92df99df98df9cdfcbdfc8dfcedfcedfcfdfc8df98dfcfdf9ddf93df98df98df99df99dfc9</token>
+          <option name="name" value="sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
